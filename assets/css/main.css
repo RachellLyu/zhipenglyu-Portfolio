@@ -74,6 +74,27 @@ input, select, textarea {
 
 /* Basic */
 
+
+	h3 {
+		position: relative;
+	}
+	
+	h3 span {
+		position: absolute;
+		right: 0;
+		font-weight: lighter;
+	}
+
+	h4 {
+		position: relative;
+	}
+
+	h4 span {
+		position: absolute;
+		right: 0;
+		font-weight: lighter;
+	}
+
 	@-ms-viewport {
 		width: device-width;
 	}
